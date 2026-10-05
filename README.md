@@ -75,3 +75,14 @@ The Power BI dashboard provides an interactive view of:
 ## Purpose
 
 The goal of this project was to demonstrate practical data analysis skills using Python, SQL, and Power BI, from raw data preparation through analysis and visualization.
+
+## Skills Demonstrated
+
+* Data cleaning and preparation with Python and Pandas
+* Exploratory data analysis
+* SQL querying and data aggregation
+* SQLite database management
+* Data visualization with Power BI
+* Dashboard development
+* Business performance analysis
+* Identifying sales trends and patterns
