@@ -19,6 +19,9 @@ The project uses Python, SQL, and Power BI to clean, analyze, and visualize the 
 
 Sales Data Analysis Project
 │
+├── images
+│ └── dashboard.png
+│
 ├── dashboard
 │ └── Sales_Dashboard.pbix
 │
